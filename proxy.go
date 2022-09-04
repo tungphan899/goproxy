@@ -6,21 +6,12 @@ import (
 	"encoding/base64"
 	"errors"
 	"fmt"
-	"io/ioutil"
-	"log"
 	"net"
 	"net/http"
 	"net/url"
 	"strconv"
 	"strings"
 	"time"
-
-	fhttp "github.com/kawacode/fhttp"
-	fhttp2 "github.com/kawacode/fhttp/http2"
-	tls "github.com/kawacode/utls"
-
-	utls "github.com/kawacode/utls"
-
 	"golang.org/x/net/proxy"
 )
 
