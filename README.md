@@ -19,7 +19,7 @@ go get github.com/kawacode/goproxy
 package main
 
 import (
-	"github.com/kawacode/gotyphon"
+	"github.com/kawacode/goproxy"
 )
 func main() {
 	RegisterProxyDialers() // Register the types
