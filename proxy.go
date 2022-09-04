@@ -386,7 +386,6 @@ func RegisterProxyDialers() {
 func CreateProxyDialer(proxystring string) (proxy.Dialer, error) {
 	proxystr := strings.Split(proxystring, ":")
 	var proxystringsec string
-	println(len(proxystr))
 	if len(proxystr) == 3 {
 		proxystringsec = proxystr[0] + "://" + strings.ReplaceAll(proxystr[1], "/", "") + ":" + proxystr[2]
 	} else if len(proxystr) == 5 {
