@@ -3,8 +3,6 @@ module github.com/kawacode/goproxy
 go 1.18
 
 require (
-	github.com/kawacode/fhttp v0.4.5
-	github.com/kawacode/utls v1.1.2
 	golang.org/x/net v0.0.0-20220420153159-1850ba15e1be
 )
 
