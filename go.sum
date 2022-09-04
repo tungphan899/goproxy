@@ -1,9 +1,5 @@
 github.com/andybalholm/brotli v1.0.4 h1:V7DdXeJtZscaqfNuAdSRuRFzuiKlHSC/Zh3zl9qY3JY=
 github.com/andybalholm/brotli v1.0.4/go.mod h1:fO7iG3H7G2nSZ7m0zPUDn85XEX2GTukHGRSepvi9Eig=
-github.com/kawacode/fhttp v0.4.5 h1:DNnSSi+vTSwO95ib2hEXbaakI2SzauposvJUZ1GDHXA=
-github.com/kawacode/fhttp v0.4.5/go.mod h1:D3Uhvgni6upWOljI6whta065Cqi3D7eMh9E6ZsTqOlM=
-github.com/kawacode/utls v1.1.2 h1:Lks35g0Z3HtRV7DBbEFfd0PqiTdGuM0HNsUccexFzzs=
-github.com/kawacode/utls v1.1.2/go.mod h1:pF3vomw4DvP9/vuQvbTRf+B097JlWhW1i0kOxy8OUH8=
 github.com/klauspost/compress v1.13.6 h1:P76CopJELS0TiO2mebmnzgWaajssP/EszplttgQxcgc=
 github.com/klauspost/compress v1.13.6/go.mod h1:/3/Vjq9QcHkK5uEr5lBEmyoZ1iFhe47etQ6QUkpK6sk=
 golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4 h1:kUhD7nTDoI3fVd9G4ORWrbV5NY0liEs/Jg2pv5f+bBA=
